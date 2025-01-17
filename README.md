@@ -1,1 +1,1 @@
-This is for a Udemy coures
+This is a Repo I created following along a Udemy course. Will update README once finished.
